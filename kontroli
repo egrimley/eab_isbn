@@ -1,0 +1,164 @@
+#!/usr/bin/perl
+
+use strict;
+
+my @kampoj = (
+    'Speco',
+    'ISSN',
+    'ISBN-10',
+    'ISBN-13',
+    'Titolo',
+    'Aŭtoro',
+    'Tradukinto',
+    'Jaro',
+    'Noto'
+    );
+
+my %kampo;
+foreach my $i (0..$#kampoj) {
+    $kampo{$kampoj[$i]} = $i + 1;
+}
+
+my %valoro;
+my $lasta = 0;
+
+while (<>) {
+    die unless s/\n$//;
+    die if /\s$/;
+    die if /\t/;
+    if (/^$/) {
+        &ero(\%valoro) if %valoro;
+        undef %valoro;
+        $lasta = 0;
+        next;
+    }
+    if (/^#/) {
+        next;
+    }
+    die unless /^(\S+): (\S.*)/;
+    my $nova = $kampo{$1};
+    die unless $nova && $nova >= $lasta;
+    $lasta = $nova;
+    $valoro{$1} .= (defined $valoro{$1} ? "\n" : "") . $2;
+}
+&ero(\%valoro) if %valoro;
+exit;
+
+sub ero {
+    my ($v) = @_;
+    my %def;
+    foreach my $k (keys %$v) {
+        $def{$k} = 1;
+    }
+
+    die unless $$v{'Speco'} =~
+        /^(KD|bitlibro|diverse|gazeto|kasedo|libro)$/;
+
+    die unless $def{'Titolo'};
+
+    die unless $def{'ISBN-13'} == !$def{'ISSN'};
+    if ($def{'ISBN-13'}) {
+        die unless $$v{'ISBN-13'} =~ /^(\S+) \((\S+)\)$/;
+        my ($ia, $ib) = ($1, $2);
+        die unless $ia =~ /-/;
+        {
+            my $t = $ia;
+            $t =~ s/-//g;
+            die unless $t eq $ib;
+        }
+        die unless &ean13_valida($ib);
+        my $i10 = &ean13_al_isbn10($ia);
+        if ($i10 ne '') {
+            die unless $i10 =~ /-/;
+            my $t = $i10;
+            $t =~ s/-//g;
+            die unless $$v{'ISBN-10'} eq "$i10 ($t)";
+        }
+    } else {
+        die unless $$v{'ISSN'} =~ /^(\S+)-(\S+)$/;
+        my $a = "$1$2";
+        die unless &issn_valida($a);
+    }
+
+    if ($def{'Jaro'}) {
+        my $j = $$v{'Jaro'};
+        die unless $j =~ /^([1-9][0-9]*)?$/;
+        die unless 1965 <= $j && $j < 3000;
+    }
+}
+
+sub isbn10_koncif {
+    my ($a) = @_;
+    return '' unless $a =~ /^[0-9]{9}$/;
+    my $s = 0;
+    foreach my $i (0..8) {
+        $s += substr($a, $i, 1) * (10 - $i);
+        $s %= 11;
+    }
+    return substr("0X987654321", $s, 1);
+}
+
+sub isbn10_valida {
+    my ($a) = @_;
+    return 0 if $a !~ /^([0-9]{9})([0-9X])$/;
+    return &isbn10_koncif($1) eq $2;
+}
+
+sub isbn10_al_ean13 {
+    my ($a) = @_;
+    my $b = $a;
+    $b =~ s/-//g;
+    return '' if !&isbn10_valida($b);
+    $b =~ s/.$// || die;
+    my $k = &ean13_koncif("978$b");
+    if ($a =~ /^[^-]+(-[^-]+){2}-[^-]$/) {
+        $a =~ s/.$//;
+        return "978-$a$k";
+    } else {
+        return "$b$k";
+    }
+}
+
+sub ean13_koncif {
+    my ($a) = @_;
+    return '' unless $a =~ /^[0-9]{12}$/;
+    my $s = 0;
+    foreach my $i (0..11) {
+        $s += substr($a, $i, 1) * (1 + $i % 2 * 2);
+        $s %= 10;
+    }
+    return '' . (10 - $s) % 10;
+}
+
+sub ean13_valida {
+    my ($a) = @_;
+    return 0 if $a !~ /^([0-9]{12})([0-9])$/;
+    return &ean13_koncif($1) eq $2;
+}
+
+sub ean13_al_isbn10 {
+    my ($a) = @_;
+    my $b = $a;
+    $b =~ s/-//g;
+    return '' if $b !~ /^978/;
+    return '' if !&ean13_valida($b);
+    $b =~ s/^978// || die;
+    $b =~ s/.$// || die;
+    my $k = &isbn10_koncif("$b");
+    if ($a =~ /^978-(([^-]+-){3})[^-]$/) {
+        return "$1$k";
+    } else {
+        return "$b$k";
+    }
+}
+
+sub issn_valida {
+    my ($a) = @_;
+    return 0 if $a !~ /^[0-9]{7}[0-9X]$/;
+    my $s = 0;
+    foreach my $i (0..6) {
+        $s += substr($a, $i, 1) * (8 - $i);
+        $s %= 11;
+    }
+    return substr($a, 7, 1) eq substr("0X987654321", $s, 1);
+}

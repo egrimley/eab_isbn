@@ -1,0 +1,728 @@
+# Listo de numeroj ISBN kaj ISSN uzitaj de
+# Esperanto-Asocio de Britio (EAB) kaj aliaj organizaĵoj,
+# kiuj kunlaboris aŭ kunfandiĝis kun EAB.
+
+# La informoj venis de diversaj fontoj. Eraroj eblas.
+
+# Kelkaj datoj laŭ Vikipedio:
+#
+# 1965 : Kreo de 9-cifera SBN
+# 1970 : Eldono de normo ISO 2108 por 10-cifera ISBN
+# 1971 : Malneto de normo por ISSN
+# 1974 : Lasta uzado de SBN en Britio
+# 1975 : Eldono de normo ISO 3297 por ISSN
+# 2007 : ISBN iĝas 13-cifera
+
+# ISSN-oj:
+
+Speco: gazeto
+ISSN: 0007-067X
+Titolo: The British Esperantist
+Titolo: La Brita Esperantisto
+Noto: Ekde 1905
+
+Speco: gazeto
+ISSN: 1741-4679
+Titolo: EAB Update
+Titolo: Ĝisdate
+Noto: Ekde 1998
+
+# ISBN-oj kun la prefikso 0-901757:
+
+Speco: libro
+ISBN-10: 0-901757-00-4 (0901757004)
+ISBN-13: 978-0-901757-00-5 (9780901757005)
+Titolo: The Nixon Esperanto vocabulary
+Jaro: 1967
+
+Speco: libro
+ISBN-10: 0-901757-02-0 (0901757020)
+ISBN-13: 978-0-901757-02-9 (9780901757029)
+Titolo: La longa marŝo
+Aŭtoro: J. H. Sullivan
+Jaro: 1968
+
+Speco: libro
+ISBN-10: 0-901757-03-9 (0901757039)
+ISBN-13: 978-0-901757-03-6 (9780901757036)
+Titolo: La junaj trezor-serĉantoj
+Aŭtoro: J. H. Sullivan
+Jaro: 1968
+
+Speco: libro
+ISBN-10: 0-901757-05-5 (0901757055)
+ISBN-13: 978-0-901757-05-0 (9780901757050)
+Titolo: La junaj detektivoj
+Aŭtoro: J. H. Sullivan
+Jaro: 1969
+
+Speco: diverse
+ISBN-10: 0-901757-06-3 (0901757063)
+ISBN-13: 978-0-901757-06-7 (9780901757067)
+Titolo: Urso-kurso
+Jaro: 1998
+Noto: Konsistas el 7 kajeroj kaj 4 kasedoj kun propraj ISBN-oj.
+
+Speco: libro
+ISBN-10: 0-901757-07-1 (0901757071)
+ISBN-13: 978-0-901757-07-4 (9780901757074)
+Titolo: Urso-kurso Kajero Unu
+Jaro: 1998
+
+Speco: libro
+ISBN-10: 0-901757-08-X (090175708X)
+ISBN-13: 978-0-901757-08-1 (9780901757081)
+Titolo: Urso-Kurso: Parents' Notes: Part 1
+Jaro: 1998
+
+Speco: kasedo
+ISBN-10: 0-901757-09-8 (0901757098)
+ISBN-13: 978-0-901757-09-8 (9780901757098)
+Titolo: Urso-Kurso: Cassette for Part 1
+Jaro: 1998
+
+Speco: libro
+ISBN-10: 0-901757-10-1 (0901757101)
+ISBN-13: 978-0-901757-10-4 (9780901757104)
+Titolo: Urso-kurso Kajero Du
+Jaro: 1998
+
+Speco: libro
+ISBN-10: 0-901757-11-X (090175711X)
+ISBN-13: 978-0-901757-11-1 (9780901757111)
+Titolo: Urso-Kurso: Parents' Notes: Part 2
+Jaro: 1998
+
+Speco: kasedo
+ISBN-10: 0-901757-12-8 (0901757128)
+ISBN-13: 978-0-901757-12-8 (9780901757128)
+Titolo: Urso-Kurso: Cassette for Part 2
+Jaro: 1998
+
+Speco: libro
+ISBN-10: 0-901757-13-6 (0901757136)
+ISBN-13: 978-0-901757-13-5 (9780901757135)
+Titolo: Urso-kurso Kajero Tri
+Jaro: 1998
+
+Speco: libro
+ISBN-10: 0-901757-14-4 (0901757144)
+ISBN-13: 978-0-901757-14-2 (9780901757142)
+Titolo: Urso-Kurso: Parents' Notes: Part 3
+Jaro: 1998
+
+Speco: kasedo
+ISBN-10: 0-901757-15-2 (0901757152)
+ISBN-13: 978-0-901757-15-9 (9780901757159)
+Titolo: Urso-Kurso: Cassette for Part 3
+Jaro: 1998
+
+Speco: libro
+ISBN-10: 0-901757-16-0 (0901757160)
+ISBN-13: 978-0-901757-16-6 (9780901757166)
+Titolo: Urso-kurso Kajero Kvar
+Jaro: 1998
+
+Speco: kasedo
+ISBN-10: 0-901757-17-9 (0901757179)
+ISBN-13: 978-0-901757-17-3 (9780901757173)
+Titolo: Urso-Kurso: Cassette for Part 4
+Jaro: 1998
+
+Speco: KD
+ISBN-10: 0-901757-18-7 (0901757187)
+ISBN-13: 978-0-901757-18-0 (9780901757180)
+Titolo: Esperanto Pronunciation
+Jaro: 2004
+
+Speco: KD
+ISBN-10: 0-901757-19-5 (0901757195)
+ISBN-13: 978-0-901757-19-7 (9780901757197)
+Titolo: Verdaj Voĉoj
+Aŭtoro: Paul Gubbins
+Jaro: 2004
+
+Speco: KD
+ISBN-10: 0-901757-20-9 (0901757209)
+ISBN-13: 978-0-901757-20-3 (9780901757203)
+Titolo: Urso-Kurso: 1&2
+Jaro: 1997
+
+Speco: KD
+ISBN-10: 0-901757-21-7 (0901757217)
+ISBN-13: 978-0-901757-21-0 (9780901757210)
+Titolo: Urso-Kurso: 3&4
+Jaro: 1997
+
+Speco: KD
+ISBN-10: 0-901757-22-5 (0901757225)
+ISBN-13: 978-0-901757-22-7 (9780901757227)
+Titolo: Urso-Kurso: Kantoj
+Jaro: 1997
+
+Speco: KD
+ISBN-10: 0-901757-23-3 (0901757233)
+ISBN-13: 978-0-901757-23-4 (9780901757234)
+Titolo: Verdaj Voĉoj 2
+Aŭtoro: Paul Gubbins
+Jaro: 2007
+
+Speco: libro
+ISBN-10: 0-901757-24-1 (0901757241)
+ISBN-13: 978-0-901757-24-1 (9780901757241)
+Titolo: Nun ni komprenas ... kaj aliaj porinfanaj teatraĵetoj
+Aŭtoro: Paul Gubbins
+Jaro: 2007
+
+Speco: libro
+ISBN-10: 0-901757-25-X (090175725X)
+ISBN-13: 978-0-901757-25-8 (9780901757258)
+Titolo: "Elementary,..!" Esperanto Course: Lessons
+Jaro: 2008
+
+Speco: libro
+ISBN-10: 0-901757-26-8 (0901757268)
+ISBN-13: 978-0-901757-26-5 (9780901757265)
+Titolo: "Elementary,..!" Esperanto Course: Resources
+Jaro: 2008
+
+# ISBN-oj kun la prefikso 0-902756:
+
+Speco: libro
+ISBN-10: 0-902756-00-1 (0902756001)
+ISBN-13: 978-0-902756-00-7 (9780902756007)
+Titolo: Nia sango
+Aŭtoro: Marjorie Boulton
+Jaro: 1970
+
+Speco: libro
+ISBN-10: 0-902756-01-X (090275601X)
+ISBN-13: 978-0-902756-01-4 (9780902756014)
+Titolo: Internacia kuirlibro
+Aŭtoro: Johanna Shorter-Eyck
+Jaro: 1971
+
+Speco: libro
+ISBN-10: 0-902756-02-8 (0902756028)
+ISBN-13: 978-0-902756-02-1 (9780902756021)
+Titolo: Jen Londono!
+Aŭtoro: John Lewesdon
+Tradukinto: J. C. Wells
+Jaro: 1971
+
+Speco: libro
+ISBN-10: 0-902756-03-6 (0902756036)
+ISBN-13: 978-0-902756-03-8 (9780902756038)
+Titolo: A first foreign language for all mankind: Esperanto
+Aŭtoro: Bernard Cavanagh
+Jaro: 1971
+
+Speco: libro
+ISBN-10: 0-902756-04-4 (0902756044)
+ISBN-13: 978-0-902756-04-5 (9780902756045)
+Titolo: Esperanto programita
+
+Speco: libro
+ISBN-10: 0-902756-05-2 (0902756052)
+ISBN-13: 978-0-902756-05-2 (9780902756052)
+Titolo: The accepted Esperanto dictionary
+Titolo: Leksikono de oficialaj vortoj
+Jaro: 1971
+Noto: "CANCELLED"
+
+Speco: libro
+ISBN-10: 0-902756-06-0 (0902756060)
+ISBN-13: 978-0-902756-06-9 (9780902756069)
+Titolo: Rakontoj el pluraj landoj
+Aŭtoro: Fred Parker
+Jaro: 1972
+Noto: "book itself bears SBN 902756 036"
+
+Speco: libro
+ISBN-10: 0-902756-07-9 (0902756079)
+ISBN-13: 978-0-902756-07-6 (9780902756076)
+Titolo: British Esperanto Association Handbook and Booklist
+
+Speco: libro
+ISBN-10: 0-902756-08-7 (0902756087)
+ISBN-13: 978-0-902756-08-3 (9780902756083)
+Titolo: Esperanto-English Dictionary
+Aŭtoro: Montagu C. Butler
+Jaro: 1967
+Noto: "Hardback"
+
+Speco: libro
+ISBN-10: 0-902756-09-5 (0902756095)
+ISBN-13: 978-0-902756-09-0 (9780902756090)
+Titolo: Esperanto-English Dictionary
+Aŭtoro: Montagu C. Butler
+Jaro: 1967
+Noto: "Paperback"
+
+Speco: libro
+ISBN-10: 0-902756-10-9 (0902756109)
+ISBN-13: 978-0-902756-10-6 (9780902756106)
+Titolo: Jen Nia Mondo
+Noto: "CANCELLED"
+
+Speco: libro
+ISBN-10: 0-902756-11-7 (0902756117)
+ISBN-13: 978-0-902756-11-3 (9780902756113)
+Titolo: Laŭokazaj lingvaj notoj
+Aŭtoro: Alec Venture
+Jaro: 1977
+
+Speco: libro
+ISBN-10: 0-902756-12-5 (0902756125)
+ISBN-13: 978-0-902756-12-0 (9780902756120)
+Titolo: Kontrastoj
+Aŭtoro: Carmel Mallia
+Jaro: 1980
+
+Speco: libro
+ISBN-10: 0-902756-13-3 (0902756133)
+ISBN-13: 978-0-902756-13-7 (9780902756137)
+Titolo: Esperanto's time has come
+Aŭtoro: Stanley Nisbet
+Jaro: 1987
+
+Speco: libro
+ISBN-10: 0-902756-14-1 (0902756141)
+ISBN-13: 978-0-902756-14-4 (9780902756144)
+Titolo: Geiriadur Esperanto
+Titolo: Kimra Vortaro
+Noto: "CANCELLED"
+
+Speco: libro
+ISBN-10: 0-902756-15-X (090275615X)
+ISBN-13: 978-0-902756-15-1 (9780902756151)
+Titolo: Mil unuaj vortoj en Esperanto
+Aŭtoro: Heather Amery
+Jaro: 1994
+Noto: "Hardback"
+
+Speco: libro
+ISBN-10: 0-902756-16-8 (0902756168)
+ISBN-13: 978-0-902756-16-8 (9780902756168)
+Titolo: Mil unuaj vortoj en Esperanto
+Aŭtoro: Heather Amery
+Jaro: 1996
+Noto: "Limp cloth"
+
+Speco: libro
+ISBN-10: 0-902756-17-6 (0902756176)
+ISBN-13: 978-0-902756-17-5 (9780902756175)
+Titolo: Esperanto for beginners
+Aŭtoro: Montagu C. Butler
+Jaro: 1996
+
+Speco: libro
+ISBN-10: 0-902756-18-4 (0902756184)
+ISBN-13: 978-0-902756-18-2 (9780902756182)
+Titolo: The Nixon Esperanto vocabulary
+
+Speco: libro
+ISBN-10: 0-902756-19-2 (0902756192)
+ISBN-13: 978-0-902756-19-9 (9780902756199)
+Titolo: Leteroj el Svedio
+Aŭtoro: Harold Brown
+Jaro: 2003
+
+Speco: libro
+ISBN-10: 0-902756-20-6 (0902756206)
+ISBN-13: 978-0-902756-20-5 (9780902756205)
+Titolo: EAB Mini-D
+Titolo: English-Esperanto Esperanto-English
+Titolo: Esperanto-English English-Esperanto Mini-Dictionary
+Aŭtoro: Edmund Grimley Evans
+Jaro: 2003
+Noto: Malfacilas konstati la titolon de ĉi tiu!
+
+Speco: libro
+ISBN-10: 0-902756-21-4 (0902756214)
+ISBN-13: 978-0-902756-21-2 (9780902756212)
+Titolo: Mil unuaj vortoj en Esperanto
+Aŭtoro: Heather Amery
+Jaro: 2004
+
+Speco: libro
+ISBN-10: 0-902756-22-2 (0902756222)
+ISBN-13: 978-0-902756-22-9 (9780902756229)
+Titolo: Conversational Esperanto
+Aŭtoro: Don Lord
+Jaro: 2006
+
+Speco: libro
+ISBN-10: 0-902756-23-0 (0902756230)
+ISBN-13: 978-0-902756-23-6 (9780902756236)
+Titolo: Traduku!
+Aŭtoro: William Auld
+Jaro: 2004
+
+Speco: libro
+ISBN-10: 0-902756-24-9 (0902756249)
+ISBN-13: 978-0-902756-24-3 (9780902756243)
+Titolo: La lupino kaj aliaj rakontoj
+Aŭtoro: Saki
+Tradukinto: Edmund Grimley Evans
+Jaro: 2005
+
+Speco: libro
+ISBN-10: 0-902756-25-7 (0902756257)
+ISBN-13: 978-0-902756-25-0 (9780902756250)
+Titolo: La verda ranaro prezentas ...
+Aŭtoro: Paul Gubbins
+Jaro: 2006
+
+Speco: libro
+ISBN-10: 0-902756-26-5 (0902756265)
+ISBN-13: 978-0-902756-26-7 (9780902756267)
+Titolo: Relativeco per bildoj
+Aŭtoro: Wilfrid Atkinson
+Jaro: 2006
+
+Speco: libro
+ISBN-10: 0-902756-27-3 (0902756273)
+ISBN-13: 978-0-902756-27-4 (9780902756274)
+Titolo: Conversational Esperanto
+Aŭtoro: Don Lord
+Jaro: 2008
+
+Speco: libro
+ISBN-10: 0-902756-28-1 (0902756281)
+ISBN-13: 978-0-902756-28-1 (9780902756281)
+Titolo: Esperanto Mini-Course
+Jaro: 2009
+
+Speco: libro
+ISBN-10: 0-902756-29-X (090275629X)
+ISBN-13: 978-0-902756-29-8 (9780902756298)
+Titolo: Esperanto Mini-Dictionary
+Aŭtoro: Edmund Grimley Evans
+Jaro: 2009
+
+Speco: libro
+ISBN-10: 0-902756-30-3 (0902756303)
+ISBN-13: 978-0-902756-30-4 (9780902756304)
+Titolo: Mini-Cwrs Esperanto
+Jaro: 2010
+
+Speco: libro
+ISBN-10: 0-902756-32-X (090275632X)
+ISBN-13: 978-0-902756-32-8 (9780902756328)
+Titolo: Esperanto Mini-Grammar
+Jaro: 2010
+
+Speco: libro
+ISBN-10: 0-902756-33-8 (0902756338)
+ISBN-13: 978-0-902756-33-5 (9780902756335)
+Titolo: Esperanto as a starter language
+Aŭtoro: Angela Tellier
+Jaro: 2012
+
+Speco: libro
+ISBN-10: 0-902756-35-4 (0902756354)
+ISBN-13: 978-0-902756-35-9 (9780902756359)
+Titolo: Esperanto as a starter language
+Aŭtoro: Angela Tellier
+Jaro: 2013
+
+Speco: libro
+ISBN-10: 0-902756-36-2 (0902756362)
+ISBN-13: 978-0-902756-36-6 (9780902756366)
+Titolo: Dr John Buchanan - an Esperanto legacy to the University of Liverpool
+Aŭtoro: Angela Tellier
+Jaro: 2013
+
+Speco: libro
+ISBN-10: 0-902756-37-0 (0902756370)
+ISBN-13: 978-0-902756-37-3 (9780902756373)
+Titolo: Zamenhof, aŭtoro de Esperanto
+Aŭtoro: Marjorie Boulton
+Jaro: 2017
+
+Speco: bitlibro
+ISBN-10: 0-902756-38-9 (0902756389)
+ISBN-13: 978-0-902756-38-0 (9780902756380)
+Titolo: Zamenhof, aŭtoro de Esperanto
+Aŭtoro: Marjorie Boulton
+Jaro: 2017
+
+# ISBN-oj kun la prefikso 0-905149:
+
+Speco: libro
+ISBN-10: 0-905149-00-9 (0905149009)
+ISBN-13: 978-0-905149-00-4 (9780905149004)
+Titolo: Bakĥantinoj
+Aŭtoro: Euripides
+Tradukinto: Albert Goodheir
+Jaro: 1975
+
+Speco: libro
+ISBN-10: 0-905149-01-7 (0905149017)
+ISBN-13: 978-0-905149-01-1 (9780905149011)
+Titolo: Forkaptita
+Aŭtoro: Robert Louis Stevenson
+Tradukinto: Albert Goodheir
+Jaro: 1976
+
+Speco: libro
+ISBN-10: 0-905149-02-5 (0905149025)
+ISBN-13: 978-0-905149-02-8 (9780905149028)
+Titolo: Epifanio
+Aŭtoro: William Shakespeare
+Tradukinto: William Auld
+Jaro: 1977
+
+Speco: libro
+ISBN-10: 0-905149-03-3 (0905149033)
+ISBN-13: 978-0-905149-03-5 (9780905149035)
+Titolo: Lingvo kaj logiko
+Aŭtoro: Albert Goodheir
+Jaro: 1977
+
+Speco: libro
+ISBN-10: 0-905149-04-1 (0905149041)
+ISBN-13: 978-0-905149-04-2 (9780905149042)
+Titolo: Fondita sur roko: la filozofio de Spinoza post tri jarcentoj
+Aŭtoro: Albert Goodheir
+Jaro: 1977
+
+Speco: libro
+ISBN-10: 0-905149-05-X (090514905X)
+ISBN-13: 978-0-905149-05-9 (9780905149059)
+Titolo: Trezorinsulo
+Aŭtoro: Robert Louis Stevenson
+Tradukinto: Grace Kirkwood
+Jaro: 1977
+
+Speco: libro
+ISBN-10: 0-905149-06-8 (0905149068)
+ISBN-13: 978-0-905149-06-6 (9780905149066)
+Titolo: Fondita sur roko: la filozofio de Spinoza post tri jarcentoj
+Aŭtoro: Albert Goodheir
+Jaro: 1978
+
+Speco: libro
+ISBN-10: 0-905149-07-6 (0905149076)
+ISBN-13: 978-0-905149-07-3 (9780905149073)
+Titolo: Marfilo Karlo: legendo el Kornvalo
+Aŭtoro: Jean Bomford
+Jaro: 1978
+
+Speco: libro
+ISBN-10: 0-905149-08-4 (0905149084)
+ISBN-13: 978-0-905149-08-0 (9780905149080)
+Titolo: Skota Antologio
+Jaro: 1978
+
+Speco: libro
+ISBN-10: 0-905149-09-2 (0905149092)
+ISBN-13: 978-0-905149-09-7 (9780905149097)
+Titolo: Suno tra nuboj
+Aŭtoro: Horace Clayton
+Jaro: 1970
+
+Speco: libro
+ISBN-10: 0-905149-10-6 (0905149106)
+ISBN-13: 978-0-905149-10-3 (9780905149103)
+Titolo: Rikardo tria
+Aŭtoro: William Shakespeare
+Tradukinto: John Francis
+Jaro: 1980
+
+Speco: libro
+ISBN-10: 0-905149-11-4 (0905149114)
+ISBN-13: 978-0-905149-11-0 (9780905149110)
+Titolo: D-ro Jekyll kaj S-ro Hyde
+Aŭtoro: Robert Louis Stevenson
+Tradukinto: Albert Goodheir
+Jaro: 1980
+
+Speco: libro
+ISBN-10: 0-905149-12-2 (0905149122)
+ISBN-13: 978-0-905149-12-7 (9780905149127)
+Titolo: Merlo sur menhiro
+Aŭtoro: Albert Goodheir
+Jaro: 1979
+
+Speco: libro
+ISBN-10: 0-905149-13-0 (0905149130)
+ISBN-13: 978-0-905149-13-4 (9780905149134)
+Titolo: Divershumore
+Aŭtoro: Rejna de Jong
+Jaro: 1980
+
+Speco: libro
+ISBN-10: 0-905149-14-9 (0905149149)
+ISBN-13: 978-0-905149-14-1 (9780905149141)
+Titolo: La robajoj de Omar Kajam
+Tradukinto: William Auld
+Jaro: 1980
+
+Speco: libro
+ISBN-10: 0-905149-15-7 (0905149157)
+ISBN-13: 978-0-905149-15-8 (9780905149158)
+Titolo: Apologio de Sokrato
+Tradukinto: Albert Goodheir
+Jaro: 1981
+
+Speco: libro
+ISBN-10: 0-905149-16-5 (0905149165)
+ISBN-13: 978-0-905149-16-5 (9780905149165)
+Titolo: Prometeo ligita
+Tradukinto: Albert Goodheir
+Jaro: 1982
+
+Speco: libro
+ISBN-10: 0-905149-17-3 (0905149173)
+ISBN-13: 978-0-905149-17-2 (9780905149172)
+Titolo: Ashanti ballads
+Titolo: Baladoj el Asante
+Aŭtoro: Ko Nimo
+Jaro: 1981
+
+Speco: libro
+ISBN-10: 0-905149-18-1 (0905149181)
+ISBN-13: 978-0-905149-18-9 (9780905149189)
+Titolo: La fontoj de Esperanto
+Aŭtoro: D. B. Gregor
+Jaro: 1982
+
+Speco: libro
+ISBN-10: 0-905149-19-X (090514919X)
+ISBN-13: 978-0-905149-19-6 (9780905149196)
+Titolo: La insulo de voĉoj
+Aŭtoro: Robert Louis Stevenson
+Tradukinto: Cynthia C. Vincent
+Jaro: 1982
+
+Speco: libro
+ISBN-10: 0-905149-20-3 (0905149203)
+ISBN-13: 978-0-905149-20-2 (9780905149202)
+Titolo: 15 komedietoj
+Aŭtoro: Robert Mackay
+Jaro: 1983
+
+Speco: libro
+ISBN-10: 0-905149-21-1 (0905149211)
+ISBN-13: 978-0-905149-21-9 (9780905149219)
+Titolo: Konsolo de la filozofio
+Aŭtoro: Boethius
+Tradukinto: Albert Goodheir
+Jaro: 1984
+
+Speco: libro
+ISBN-10: 0-905149-22-X (090514922X)
+ISBN-13: 978-0-905149-22-6 (9780905149226)
+Titolo: Trojaninoj
+Tradukinto: Albert Goodheir
+Jaro: 1985
+Noto: Oni uzis la saman ISBN-on por du libroj!
+
+Speco: libro
+ISBN-10: 0-905149-22-X (090514922X)
+ISBN-13: 978-0-905149-22-6 (9780905149226)
+Titolo: Enlumiĝo
+Aŭtoro: Albert Goodheir
+Jaro: 1987
+Noto: Oni uzis la saman ISBN-on por du libroj!
+
+Speco: libro
+ISBN-10: 0-905149-25-4 (0905149254)
+ISBN-13: 978-0-905149-25-7 (9780905149257)
+Titolo: La komedio de eraroj
+Aŭtoro: William Shakespeare
+Tradukinto: William Auld
+Tradukinto: Asen M. Simeonov
+Jaro: 1987
+Noto: "1945"
+
+Speco: libro
+ISBN-10: 0-905149-26-2 (0905149262)
+ISBN-13: 978-0-905149-26-4 (9780905149264)
+Titolo: Kantoj poemoj kaj satiroj
+Aŭtoro: Robert Burns
+Tradukinto: Reto Rossetti
+Tradukinto: William Auld
+Jaro: 1995
+
+# ISBN-oj kun la prefikso 0-906632:
+
+Speco: libro
+ISBN-10: 0-906632-00-5 (0906632005)
+ISBN-13: 978-0-906632-00-0 (9780906632000)
+Titolo: Jen Nia Mondo
+Jaro: 1979
+
+Speco: libro
+ISBN-10: 0-906632-01-3 (0906632013)
+ISBN-13: 978-0-906632-01-7 (9780906632017)
+Titolo: Jen Nia Mondo 2
+Jaro: 1979
+
+Speco: libro
+ISBN-10: 0-906632-02-1 (0906632021)
+ISBN-13: 978-0-906632-02-4 (9780906632024)
+Titolo: Geiriadur Esperanto
+Titolo: Kimra Vortaro
+Aŭtoro: J. C. Wells
+Jaro: 1985
+
+Speco: libro
+ISBN-10: 0-906632-03-X (090663203X)
+ISBN-13: 978-0-906632-03-1 (9780906632031)
+Titolo: Liza Kaj Paŭlo
+Aŭtoro: Reto Rossetti
+Jaro: 1985
+
+Speco: KD
+ISBN-10: 0-906632-04-8 (0906632048)
+ISBN-13: 978-0-906632-04-8 (9780906632048)
+Titolo: Jen Nia Mondo 1
+Jaro: 2005
+
+Speco: KD
+ISBN-10: 0-906632-05-6 (0906632056)
+ISBN-13: 978-0-906632-05-5 (9780906632055)
+Titolo: Jen Nia Mondo 2
+Jaro: 2005
+
+Speco: libro
+ISBN-10: 0-906632-06-4 (0906632064)
+ISBN-13: 978-0-906632-06-2 (9780906632062)
+Titolo: Jen Nia Mondo 1
+Jaro: 2005
+
+Speco: KD
+ISBN-10: 0-906632-07-2 (0906632072)
+ISBN-13: 978-0-906632-07-9 (9780906632079)
+Titolo: Jen Nia Mondo: La dialogoj
+Jaro: 2007
+
+# ISBN-oj kun la prefikso 0-9502417:
+
+Speco: libro
+ISBN-10: 0-9502417-0-9 (0950241709)
+ISBN-13: 978-0-9502417-0-8 (9780950241708)
+Titolo: The accepted Esperanto dictionary
+Titolo: Leksikono de oficialaj vortoj
+Aŭtoro: Edward Ockey
+Jaro: 1972
+
+# ISBN-oj kun la prefikso 0-9509009:
+
+Speco: libro
+ISBN-10: 0-9509009-0-7 (0950900907)
+ISBN-13: 978-0-9509009-0-2 (9780950900902)
+Titolo: Esperanto, the International Language
+Aŭtoro: W. J. Downes
+Jaro: 1983
+
+# ISBN-oj kun la prefikso 0-9513268:
+
+Speco: libro
+ISBN-10: 0-9513268-0-5 (0951326805)
+ISBN-13: 978-0-9513268-0-0 (9780951326800)
+Titolo: Angla antologio 2
+Jaro: 1987
