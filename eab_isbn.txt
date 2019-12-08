@@ -448,6 +448,12 @@ Titolo: Zamenhof, aŭtoro de Esperanto
 Aŭtoro: Marjorie Boulton
 Jaro: 2017
 
+Speco: libro
+ISBN-10: 0-902756-39-7 (0902756397)
+ISBN-13: 978-0-902756-39-7 (9780902756397)
+Titolo: La Krubalo
+Jaro: 2019
+
 # ISBN-oj kun la prefikso 0-905149:
 
 Speco: libro
