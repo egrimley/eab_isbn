@@ -408,6 +408,12 @@ Titolo: Mini-Cwrs Esperanto
 Jaro: 2010
 
 Speco: libro
+ISBN-10: 0-902756-31-1 (0902756311)
+ISBN-13: 978-0-902756-31-1 (9780902756311)
+Titolo: Mil unuaj vortoj en Esperanto
+Jaro: 2020
+
+Speco: libro
 ISBN-10: 0-902756-32-X (090275632X)
 ISBN-13: 978-0-902756-32-8 (9780902756328)
 Titolo: Esperanto Mini-Grammar
