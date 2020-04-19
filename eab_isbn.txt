@@ -427,6 +427,12 @@ Aŭtoro: Angela Tellier
 Jaro: 2012
 
 Speco: libro
+ISBN-10: 0-902756-34-6 (0902756346)
+ISBN-13: 978-0-902756-34-2 (9780902756342)
+Titolo: Spaco sur la balail'
+Jaro: 2020
+
+Speco: libro
 ISBN-10: 0-902756-35-4 (0902756354)
 ISBN-13: 978-0-902756-35-9 (9780902756359)
 Titolo: Esperanto as a starter language
