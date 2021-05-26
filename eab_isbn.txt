@@ -539,7 +539,7 @@ ISBN-10: 0-905149-09-2 (0905149092)
 ISBN-13: 978-0-905149-09-7 (9780905149097)
 Titolo: Suno tra nuboj
 Aŭtoro: Horace Clayton
-Jaro: 1970
+Jaro: 1979
 
 Speco: libro
 ISBN-10: 0-905149-10-6 (0905149106)
