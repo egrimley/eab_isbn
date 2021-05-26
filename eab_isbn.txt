@@ -466,6 +466,27 @@ ISBN-13: 978-0-902756-39-7 (9780902756397)
 Titolo: La Krubalo
 Jaro: 2019
 
+Speco: libro
+ISBN-10: 0-902756-40-0 (0902756400)
+ISBN-13: 978-0-902756-40-3 (9780902756403)
+Titolo: La plej eleganta giganto de la urbo
+Jaro: 2021
+
+Speco: libro
+ISBN-10: 0-902756-41-9 (0902756419)
+ISBN-13: 978-0-902756-41-0 (9780902756410)
+Titolo: La domo ĉe Pu-Angulo
+Aŭtoro: A. A. Milne
+Tradukinto: Edmund Grimley Evans
+Jaro: 2021
+
+Speco: libro
+ISBN-10: 0-902756-42-7 (0902756427)
+ISBN-13: 978-0-902756-42-7 (9780902756427)
+Titolo: Okuloj
+Aŭtoro: Marjorie Boulton
+Jaro: 2021
+
 # ISBN-oj kun la prefikso 0-905149:
 
 Speco: libro
