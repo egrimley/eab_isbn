@@ -28,6 +28,8 @@ Titolo: Ĝisdate
 Noto: Ekde 1998
 
 # ISBN-oj kun la prefikso 0-901757:
+# Esperanto Teachers' Association
+# Esperanto-Asocio de Britio
 
 Speco: libro
 ISBN-10: 0-901757-00-4 (0901757004)
@@ -187,6 +189,8 @@ Titolo: "Elementary,..!" Esperanto Course: Resources
 Jaro: 2008
 
 # ISBN-oj kun la prefikso 0-902756:
+# British Esperanto Association Ltd
+# Esperanto-Asocio de Britio
 
 Speco: libro
 ISBN-10: 0-902756-00-1 (0902756001)
@@ -488,6 +492,7 @@ Aŭtoro: Marjorie Boulton
 Jaro: 2021
 
 # ISBN-oj kun la prefikso 0-905149:
+# Eldonejo Kardo
 
 Speco: libro
 ISBN-10: 0-905149-00-9 (0905149009)
@@ -687,6 +692,8 @@ Tradukinto: William Auld
 Jaro: 1995
 
 # ISBN-oj kun la prefikso 0-906632:
+# Group Five Esperanto on Radio & T.V.
+# Esperanto-Asocio de Britio
 
 Speco: libro
 ISBN-10: 0-906632-00-5 (0906632005)
@@ -740,6 +747,8 @@ Titolo: Jen Nia Mondo: La dialogoj
 Jaro: 2007
 
 # ISBN-oj kun la prefikso 0-9502417:
+# Ockey (Edward)
+# World Language Books
 
 Speco: libro
 ISBN-10: 0-9502417-0-9 (0950241709)
@@ -750,6 +759,7 @@ Aŭtoro: Edward Ockey
 Jaro: 1972
 
 # ISBN-oj kun la prefikso 0-9509009:
+# Rev W J Downes
 
 Speco: libro
 ISBN-10: 0-9509009-0-7 (0950900907)
@@ -759,6 +769,7 @@ Aŭtoro: W. J. Downes
 Jaro: 1983
 
 # ISBN-oj kun la prefikso 0-9513268:
+# Esperanto-Asocio de Britio,Library,Montagu Butler of the
 
 Speco: libro
 ISBN-10: 0-9513268-0-5 (0951326805)
