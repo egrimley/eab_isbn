@@ -538,7 +538,7 @@ Jaro: 1977
 Speco: libro
 ISBN-10: 0-905149-06-8 (0905149068)
 ISBN-13: 978-0-905149-06-6 (9780905149066)
-Titolo: Fondita sur roko: la filozofio de Spinoza post tri jarcentoj
+Titolo: Founded on a rock: the philosophy of Spinoza after three centuries
 Aŭtoro: Albert Goodheir
 Jaro: 1978
 
