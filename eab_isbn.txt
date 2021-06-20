@@ -68,7 +68,7 @@ Noto: Konsistas el 7 kajeroj kaj 4 kasedoj kun propraj ISBN-oj.
 Speco: libro
 ISBN-10: 0-901757-07-1 (0901757071)
 ISBN-13: 978-0-901757-07-4 (9780901757074)
-Titolo: Urso-kurso Kajero Unu
+Titolo: Urso-kurso: Kajero unu
 Jaro: 1998
 
 Speco: libro
@@ -86,7 +86,7 @@ Jaro: 1998
 Speco: libro
 ISBN-10: 0-901757-10-1 (0901757101)
 ISBN-13: 978-0-901757-10-4 (9780901757104)
-Titolo: Urso-kurso Kajero Du
+Titolo: Urso-kurso: Kajero du
 Jaro: 1998
 
 Speco: libro
@@ -104,7 +104,7 @@ Jaro: 1998
 Speco: libro
 ISBN-10: 0-901757-13-6 (0901757136)
 ISBN-13: 978-0-901757-13-5 (9780901757135)
-Titolo: Urso-kurso Kajero Tri
+Titolo: Urso-kurso: Kajero tri
 Jaro: 1998
 
 Speco: libro
@@ -122,7 +122,7 @@ Jaro: 1998
 Speco: libro
 ISBN-10: 0-901757-16-0 (0901757160)
 ISBN-13: 978-0-901757-16-6 (9780901757166)
-Titolo: Urso-kurso Kajero Kvar
+Titolo: Urso-kurso: Kajero kvar
 Jaro: 1998
 
 Speco: kasedo
