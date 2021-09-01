@@ -14,6 +14,9 @@ my @kampoj = (
     'Noto'
     );
 
+# Kardo uzis la saman ISBN-on por du libroj de Goodheir:
+my $goodheir_fusxo = "9780905149226";
+
 my %kampo;
 foreach my $i (0..$#kampoj) {
     $kampo{$kampoj[$i]} = $i + 1;
@@ -44,6 +47,8 @@ while (<>) {
 &ero(\%valoro) if %valoro;
 exit;
 
+my %jam_vidis;
+
 sub ero {
     my ($v) = @_;
     my %def;
@@ -57,6 +62,7 @@ sub ero {
     die unless $def{'Titolo'};
 
     die unless $def{'ISBN-13'} == !$def{'ISSN'};
+    my $numero = "";
     if ($def{'ISBN-13'}) {
         die unless $$v{'ISBN-13'} =~ /^(\S+) \((\S+)\)$/;
         my ($ia, $ib) = ($1, $2);
@@ -65,10 +71,13 @@ sub ero {
             my $t = $ia;
             $t =~ s/-//g;
             die unless $t eq $ib;
+            $numero = $ib;
         }
         die unless &ean13_valida($ib);
         my $i10 = &ean13_al_isbn10($ia);
-        if ($i10 ne '') {
+        if ($i10 eq '') {
+            die if $def{'ISBN-10'};
+        } else {
             die unless $i10 =~ /-/;
             my $t = $i10;
             $t =~ s/-//g;
@@ -78,7 +87,11 @@ sub ero {
         die unless $$v{'ISSN'} =~ /^(\S+)-(\S+)$/;
         my $a = "$1$2";
         die unless &issn_valida($a);
+        $numero = $a;
     }
+    die if ($numero eq "" ||
+            ($jam_vidis{$numero} && $numero ne $goodheir_fusxo));
+    $jam_vidis{$numero} = 1;
 
     if ($def{'Jaro'}) {
         my $j = $$v{'Jaro'};
