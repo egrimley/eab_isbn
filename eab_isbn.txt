@@ -491,6 +491,29 @@ Titolo: Okuloj
 Aŭtoro: Marjorie Boulton
 Jaro: 2021
 
+Speco: libro
+ISBN-10: 0-902756-44-3 (0902756443)
+ISBN-13: 978-0-902756-44-1 (9780902756441)
+Titolo: Novulo en la urbo
+Aŭtoro: Marta Altés
+Tradukinto: Tim Owen
+Jaro: 2021
+
+Speco: libro
+ISBN-10: 0-902756-45-1 (0902756451)
+ISBN-13: 978-0-902756-45-8 (9780902756458)
+Titolo: La cent-etaĝa kosmoŝipo
+Aŭtoro: Mike Smith
+Tradukinto: Tim Owen
+Jaro: 2021
+
+Speco: libro
+ISBN-10: 0-902756-46-X (090275646X)
+ISBN-13: 978-0-902756-46-5 (9780902756465)
+Titolo: Kanto de ĝojo
+Aŭtoro: Michael Morpurgo
+Jaro: 2021
+
 # ISBN-oj kun la prefikso 0-905149:
 # Eldonejo Kardo
 
