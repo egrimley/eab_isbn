@@ -514,6 +514,27 @@ Titolo: Kanto de ĝojo
 Aŭtoro: Michael Morpurgo
 Jaro: 2021
 
+Speco: libro
+ISBN-10: 0-902756-47-8 (0902756478)
+ISBN-13: 978-0-902756-47-2 (9780902756472)
+Titolo: Ekster la kuniklejo
+Aŭtoro: Jessica Meserve
+Jaro: 2022
+
+Speco: libro
+ISBN-10: 0-902756-48-6 (0902756486)
+ISBN-13: 978-0-902756-48-9 (9780902756489)
+Titolo: La aventuroj de Alico en Mirlando
+Aŭtoro: Lewis Carroll
+Jaro: 2022
+
+Speco: libro
+ISBN-10: 0-902756-49-4 (0902756494)
+ISBN-13: 978-0-902756-49-6 (9780902756496)
+Titolo: Pingvena pako
+Aŭtoro: Victoria Cassanell
+Jaro: 2022
+
 # ISBN-oj kun la prefikso 0-905149:
 # Eldonejo Kardo
 
