@@ -492,6 +492,13 @@ Aŭtoro: Marjorie Boulton
 Jaro: 2021
 
 Speco: libro
+ISBN-10: 0-902756-43-5 (0902756435)
+ISBN-13: 978-0-902756-43-4 (9780902756434)
+Titolo: Ĉu li bremsis sufiĉe?
+Aŭtoro: Johán Valano
+Jaro: 2022
+
+Speco: libro
 ISBN-10: 0-902756-44-3 (0902756443)
 ISBN-13: 978-0-902756-44-1 (9780902756441)
 Titolo: Novulo en la urbo
@@ -533,6 +540,13 @@ ISBN-10: 0-902756-49-4 (0902756494)
 ISBN-13: 978-0-902756-49-6 (9780902756496)
 Titolo: Pingvena pako
 Aŭtoro: Victoria Cassanell
+Jaro: 2022
+
+Speco: libro
+ISBN-10: 0-902756-50-8 (0902756508)
+ISBN-13: 978-0-902756-50-2 (9780902756502)
+Titolo: Ni ĉiuj estas malsamaj
+Aŭtoro: Tracey Turner
 Jaro: 2022
 
 # ISBN-oj kun la prefikso 0-905149:
