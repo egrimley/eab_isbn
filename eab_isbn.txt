@@ -549,6 +549,27 @@ Titolo: Ni ĉiuj estas malsamaj
 Aŭtoro: Tracey Turner
 Jaro: 2022
 
+Speco: libro
+ISBN-10: 0-902756-55-9 (0902756559)
+ISBN-13: 978-0-902756-55-7 (9780902756557)
+Titolo: Unu animo homa
+Aŭtoro: Marjorie Boulton
+Jaro: 2022
+
+Speco: libro
+ISBN-10: 0-902756-56-7 (0902756567)
+ISBN-13: 978-0-902756-56-4 (9780902756564)
+Titolo: Kometo en Muminvalo
+Aŭtoro: Tove Jansson
+Jaro: 2022
+
+Speco: libro
+ISBN-10: 0-902756-58-3 (0902756583)
+ISBN-13: 978-0-902756-58-8 (9780902756588)
+Titolo: La kurioza incidento de la hundo en la nokto
+Aŭtoro: Mark Haddon
+Jaro: 2022
+
 # ISBN-oj kun la prefikso 0-905149:
 # Eldonejo Kardo
 
