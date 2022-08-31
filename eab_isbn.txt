@@ -550,6 +550,34 @@ Aŭtoro: Tracey Turner
 Jaro: 2022
 
 Speco: libro
+ISBN-10: 0-902756-51-6 (0902756516)
+ISBN-13: 978-0-902756-51-9 (9780902756519)
+Titolo: La fajrovulpo
+Aŭtoro: Alexandra Page
+Jaro: 2022
+
+Speco: libro
+ISBN-10: 0-902756-52-4 (0902756524)
+ISBN-13: 978-0-902756-52-6 (9780902756526)
+Titolo: Kvin ursoj
+Aŭtoro: Catherine Rayner
+Jaro: 2022
+
+Speco: libro
+ISBN-10: 0-902756-53-2 (0902756532)
+ISBN-13: 978-0-902756-53-3 (9780902756533)
+Titolo: Lunkato kaj mi
+Aŭtoro: Lydia Corry
+Jaro: 2022
+
+Speco: libro
+ISBN-10: 0-902756-54-0 (0902756540)
+ISBN-13: 978-0-902756-54-0 (9780902756540)
+Titolo: La plej eta elefanto
+Aŭtoro: Kate Read
+Jaro: 2022
+
+Speco: libro
 ISBN-10: 0-902756-55-9 (0902756559)
 ISBN-13: 978-0-902756-55-7 (9780902756557)
 Titolo: Unu animo homa
