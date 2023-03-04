@@ -434,6 +434,7 @@ Speco: libro
 ISBN-10: 0-902756-34-6 (0902756346)
 ISBN-13: 978-0-902756-34-2 (9780902756342)
 Titolo: Spaco sur la balail'
+Aŭtoro: Julia Donaldson
 Jaro: 2020
 
 Speco: libro
@@ -468,12 +469,14 @@ Speco: libro
 ISBN-10: 0-902756-39-7 (0902756397)
 ISBN-13: 978-0-902756-39-7 (9780902756397)
 Titolo: La Krubalo
+Aŭtoro: Julia Donaldson
 Jaro: 2019
 
 Speco: libro
 ISBN-10: 0-902756-40-0 (0902756400)
 ISBN-13: 978-0-902756-40-3 (9780902756403)
 Titolo: La plej eleganta giganto de la urbo
+Aŭtoro: Julia Donaldson
 Jaro: 2021
 
 Speco: libro
@@ -597,6 +600,13 @@ ISBN-13: 978-0-902756-58-8 (9780902756588)
 Titolo: La kurioza incidento de la hundo en la nokto
 Aŭtoro: Mark Haddon
 Jaro: 2022
+
+Speco: libro
+ISBN-10: 0-902756-64-8 (0902756648)
+ISBN-13: 978-0-902756-64-9 (9780902756649)
+Titolo: Spionoj
+Aŭtoro: Michael Frayn
+Jaro: 2023
 
 # ISBN-oj kun la prefikso 0-905149:
 # Eldonejo Kardo
