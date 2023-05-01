@@ -595,6 +595,13 @@ Aŭtoro: Tove Jansson
 Jaro: 2022
 
 Speco: libro
+ISBN-10: 0-902756-57-5 (0902756575)
+ISBN-13: 978-0-902756-57-1 (9780902756571)
+Titolo: Kara bestoĝardeno
+Aŭtoro: Rod Campbell
+Jaro: 2023
+
+Speco: libro
 ISBN-10: 0-902756-58-3 (0902756583)
 ISBN-13: 978-0-902756-58-8 (9780902756588)
 Titolo: La kurioza incidento de la hundo en la nokto
@@ -602,10 +609,59 @@ Aŭtoro: Mark Haddon
 Jaro: 2022
 
 Speco: libro
+ISBN-10: 0-902756-59-1 (0902756591)
+ISBN-13: 978-0-902756-59-5 (9780902756595)
+Titolo: La insektaĉego
+Aŭtoro: Kate Read
+Jaro: 2023
+
+Speco: libro
+ISBN-10: 0-902756-60-5 (0902756605)
+ISBN-13: 978-0-902756-60-1 (9780902756601)
+Titolo: La zorgo-tigro
+Aŭtoro: Alexandra Page
+Jaro: 2023
+
+Speco: libro
+ISBN-10: 0-902756-61-3 (0902756613)
+ISBN-13: 978-0-902756-61-8 (9780902756618)
+Titolo: Tro da aĵoj
+Aŭtoro: Emily Gravett
+Jaro: 2023
+
+Speco: libro
 ISBN-10: 0-902756-64-8 (0902756648)
 ISBN-13: 978-0-902756-64-9 (9780902756649)
 Titolo: Spionoj
 Aŭtoro: Michael Frayn
+Jaro: 2023
+
+Speco: libro
+ISBN-10: 0-902756-65-6 (0902756656)
+ISBN-13: 978-0-902756-65-6 (9780902756656)
+Titolo: Ĉapelo de sorĉisto
+Aŭtoro: Tove Jansson
+Jaro: 2023
+
+Speco: libro
+ISBN-10: 0-902756-66-4 (0902756664)
+ISBN-13: 978-0-902756-66-3 (9780902756663)
+Titolo: Malgranda frato
+Aŭtoro: Cory Doctorow
+Jaro: 2023
+
+Speco: libro
+ISBN-10: 0-902756-67-2 (0902756672)
+ISBN-13: 978-0-902756-67-0 (9780902756670)
+Titolo: Malgranda sibo
+Aŭtoro: Cory Doctorow
+Jaro: 2023
+
+Speco: libro
+ISBN-10: 0-902756-68-0 (0902756680)
+ISBN-13: 978-0-902756-68-7 (9780902756687)
+Titolo: La murdo de Roger Ackroyd
+Aŭtoro: Agatha Christie
 Jaro: 2023
 
 # ISBN-oj kun la prefikso 0-905149:
