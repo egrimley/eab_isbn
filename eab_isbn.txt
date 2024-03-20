@@ -630,6 +630,20 @@ Aŭtoro: Emily Gravett
 Jaro: 2023
 
 Speco: libro
+ISBN-10: 0-902756-62-1 (0902756621)
+ISBN-13: 978-0-902756-62-5 (9780902756625)
+Titolo: Doktoro Esperanto kaj la lingvo de espero
+Aŭtoro: Mara Rockliff
+Jaro: 2023
+
+Speco: libro
+ISBN-10: 0-902756-63-X (090275663X)
+ISBN-13: 978-0-902756-63-2 (9780902756632)
+Titolo: Ne mi faris!
+Aŭtoro: Marta Altés
+Jaro: 2023
+
+Speco: libro
 ISBN-10: 0-902756-64-8 (0902756648)
 ISBN-13: 978-0-902756-64-9 (9780902756649)
 Titolo: Spionoj
@@ -662,6 +676,20 @@ ISBN-10: 0-902756-68-0 (0902756680)
 ISBN-13: 978-0-902756-68-7 (9780902756687)
 Titolo: La murdo de Roger Ackroyd
 Aŭtoro: Agatha Christie
+Jaro: 2023
+
+Speco: libro
+ISBN-10: 0-902756-69-9 (0902756699)
+ISBN-13: 978-0-902756-69-4 (9780902756694)
+Titolo: Koriolano
+Aŭtoro: William Shakespeare
+Jaro: 2023
+
+Speco: libro
+ISBN-10: 0-902756-70-2 (0902756702)
+ISBN-13: 978-0-902756-70-0 (9780902756700)
+Titolo: Memoroj de Muminpatro
+Aŭtoro: Tove Jansson
 Jaro: 2023
 
 # ISBN-oj kun la prefikso 0-905149:
@@ -918,6 +946,12 @@ ISBN-10: 0-906632-07-2 (0906632072)
 ISBN-13: 978-0-906632-07-9 (9780906632079)
 Titolo: Jen Nia Mondo: La dialogoj
 Jaro: 2007
+
+Speco: libro
+ISBN-10: 0-906632-08-0 (0906632080)
+ISBN-13: 978-0-906632-08-6 (9780906632086)
+Titolo: Gerda kaj Elza
+Jaro: 2023
 
 # ISBN-oj kun la prefikso 0-9502417:
 # Ockey (Edward)
