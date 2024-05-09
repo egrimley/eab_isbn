@@ -692,6 +692,27 @@ Titolo: Memoroj de Muminpatro
 Aŭtoro: Tove Jansson
 Jaro: 2023
 
+Speco: libro
+ISBN-10: 0-902756-71-0 (0902756710)
+ISBN-13: 978-0-902756-71-7 (9780902756717)
+Titolo: Rimleteroj
+Aŭtoro: William Auld; Marjorie Boulton
+Jaro: 2024
+
+Speco: libro
+ISBN-10: 0-902756-73-7 (0902756737)
+ISBN-13: 978-0-902756-73-1 (9780902756731)
+Titolo: La granda kaldrono
+Aŭtoro: John Francis
+Jaro: 2024
+
+Speco: libro
+ISBN-10: 0-902756-74-5 (0902756745)
+ISBN-13: 978-0-902756-74-8 (9780902756748)
+Titolo: Rimleteroj
+Aŭtoro: William Auld; Marjorie Boulton
+Jaro: 2024
+
 # ISBN-oj kun la prefikso 0-905149:
 # Eldonejo Kardo
 
