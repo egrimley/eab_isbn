@@ -699,6 +699,13 @@ Titolo: Rimleteroj
 Aŭtoro: William Auld; Marjorie Boulton
 Jaro: 2024
 
+Speco: bitlibro
+ISBN-10: 0-902756-72-9 (0902756729)
+ISBN-13: 978-0-902756-72-4 (9780902756724)
+Titolo: Matilda
+Aŭtoro: Roald Dahl
+Jaro: 2024
+
 Speco: libro
 ISBN-10: 0-902756-73-7 (0902756737)
 ISBN-13: 978-0-902756-73-1 (9780902756731)
@@ -711,6 +718,13 @@ ISBN-10: 0-902756-74-5 (0902756745)
 ISBN-13: 978-0-902756-74-8 (9780902756748)
 Titolo: Rimleteroj
 Aŭtoro: William Auld; Marjorie Boulton
+Jaro: 2024
+
+Speco: libro
+ISBN-10: 0-902756-75-3 (0902756753)
+ISBN-13: 978-0-902756-75-5 (9780902756755)
+Titolo: Somermeza dramo
+Aŭtoro: Tove Jansson
 Jaro: 2024
 
 # ISBN-oj kun la prefikso 0-905149:
