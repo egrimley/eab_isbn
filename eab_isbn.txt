@@ -727,6 +727,13 @@ Titolo: Somermeza dramo
 Aŭtoro: Tove Jansson
 Jaro: 2024
 
+Speco: libro
+ISBN-10: 0-902756-76-1 (0902756761)
+ISBN-13: 978-0-902756-76-2 (9780902756762)
+Titolo: Vintro en Muminvalo
+Aŭtoro: Tove Jansson
+Jaro: 2024
+
 # ISBN-oj kun la prefikso 0-905149:
 # Eldonejo Kardo
 
