@@ -734,6 +734,34 @@ Titolo: Vintro en Muminvalo
 Aŭtoro: Tove Jansson
 Jaro: 2024
 
+Speco: libro
+ISBN-10: 0-902756-77-X (090275677X)
+ISBN-13: 978-0-902756-77-9 (9780902756779)
+Titolo: La patro kaj la maro
+Aŭtoro: Tove Jansson
+Jaro: 2024
+
+Speco: libro
+ISBN-10: 0-902756-78-8 (0902756788)
+ISBN-13: 978-0-902756-78-6 (9780902756786)
+Titolo: Malfrue novembre
+Aŭtoro: Tove Jansson
+Jaro: 2024
+
+Speco: libro
+ISBN-10: 0-902756-79-6 (0902756796)
+ISBN-13: 978-0-902756-79-3 (9780902756793)
+Titolo: La edzino de l' tempvojaĝanto
+Aŭtoro: Audrey Niffenegger
+Jaro: 2024
+
+Speco: libro
+ISBN-10: 0-902756-80-X (090275680X)
+ISBN-13: 978-0-902756-80-9 (9780902756809)
+Titolo: La ĉashundo de la Baskerviloj
+Aŭtoro: Arthur Conan Doyle
+Jaro: 2024
+
 # ISBN-oj kun la prefikso 0-905149:
 # Eldonejo Kardo
 
