@@ -762,6 +762,20 @@ Titolo: La ĉashundo de la Baskerviloj
 Aŭtoro: Arthur Conan Doyle
 Jaro: 2024
 
+Speco: libro
+ISBN-10: 0-902756-81-8 (0902756818)
+ISBN-13: 978-0-902756-81-6 (9780902756816)
+Titolo: Traduku!
+Aŭtoro: William Auld
+Jaro: 2024
+
+Speco: libro
+ISBN-10: 0-902756-84-2 (0902756842)
+ISBN-13: 978-0-902756-84-7 (9780902756847)
+Titolo: Toto la pinta hundo
+Aŭtoro: Catherine Rayner
+Jaro: 2025
+
 # ISBN-oj kun la prefikso 0-905149:
 # Eldonejo Kardo
 
