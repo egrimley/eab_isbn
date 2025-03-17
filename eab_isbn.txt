@@ -770,10 +770,24 @@ Aŭtoro: William Auld
 Jaro: 2024
 
 Speco: libro
-ISBN-10: 0-902756-84-2 (0902756842)
-ISBN-13: 978-0-902756-84-7 (9780902756847)
+ISBN-10: 0-902756-82-6 (0902756826)
+ISBN-13: 978-0-902756-82-3 (9780902756823)
+Titolo: La Kata Kolekto
+Aŭtoro: Marjorie Boulton
+Jaro: 2025
+
+Speco: libro
+ISBN-10: 0-902756-83-4 (0902756834)
+ISBN-13: 978-0-902756-83-0 (9780902756830)
 Titolo: Toto la pinta hundo
 Aŭtoro: Catherine Rayner
+Jaro: 2025
+
+Speco: libro
+ISBN-10: 0-902756-84-2 (0902756842)
+ISBN-13: 978-0-902756-84-7 (9780902756847)
+Titolo: Rebecca
+Aŭtoro: Daphne du Maurier
 Jaro: 2025
 
 # ISBN-oj kun la prefikso 0-905149:
